@@ -14,5 +14,4 @@ pygame
 python-dotenv
 
 # Helper/Utility 
-os 
 asyncio
