@@ -9,6 +9,7 @@ speechrecognition
 # Audio Output
 edge_tts
 pygame
+PyAudio
 
 # Configuration
 python-dotenv
