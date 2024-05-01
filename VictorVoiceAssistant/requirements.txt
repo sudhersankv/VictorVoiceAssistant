@@ -1,0 +1,18 @@
+# Core Voice Assistant Functionality
+langchain
+langchain_groq
+groq
+faster_whisper 
+fuzzywuzzy 
+speechrecognition
+
+# Audio Output
+edge_tts
+pygame
+
+# Configuration
+python-dotenv
+
+# Helper/Utility 
+os 
+asyncio
