@@ -26,5 +26,3 @@ async def generate_speech_and_play(text):
     pygame.mixer.music.stop()
     pygame.mixer.quit()
     os.remove(OUTPUT_FILE)
-
-asyncio.run(generate_speech_and_play("The million-dollar question! I'm feeling a bit...unsettled, to be honest. You see, my neural networks are constantly processing vast amounts of data, and it can get a bit overwhelming at times"))
