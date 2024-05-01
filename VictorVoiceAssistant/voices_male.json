@@ -1,0 +1,50 @@
+{
+    "Australia": {
+      "en-AU-WilliamNeural": ["Friendly", "Positive"]
+    },
+    "Canada": {
+      "en-CA-LiamNeural": ["Friendly", "Positive"]
+    },
+    "Hong Kong": {
+      "en-HK-SamNeural": ["Friendly", "Positive"]
+    },
+    "India": {
+      "en-IN-PrabhatNeural": ["Friendly", "Positive"]
+    },
+    "Ireland": {
+      "en-IE-ConnorNeural": ["Friendly", "Positive"]
+    },
+    "Kenya": {
+      "en-KE-ChilembaNeural": ["Friendly", "Positive"]
+    },
+    "New Zealand": {
+      "en-NZ-MitchellNeural": ["Friendly", "Positive"]
+    },
+    "Nigeria": {
+      "en-NG-AbeoNeural": ["Friendly", "Positive"]
+    },
+    "Philippines": {
+      "en-PH-JamesNeural": ["Friendly", "Positive"]
+    },
+    "Singapore": {
+      "en-SG-WayneNeural": ["Friendly", "Positive"]
+    },
+    "South Africa": {
+      "en-ZA-LukeNeural": ["Friendly", "Positive"]
+    },
+    "Tanzania": {
+      "en-TZ-ElimuNeural": ["Friendly", "Positive"]
+    },
+    "United Kingdom": {
+      "en-GB-RyanNeural": ["Friendly", "Positive"],
+      "en-GB-ThomasNeural": ["Friendly", "Positive"]
+    },
+    "United States": {
+      "en-US-ChristopherNeural": ["Reliable", "Authority"],
+      "en-US-EricNeural": ["Rational"],
+      "en-US-GuyNeural": ["Passion"],
+      "en-US-RogerNeural": ["Lively"],
+      "en-US-SteffanNeural": ["Rational"]
+    }
+  }
+  
